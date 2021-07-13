@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/EveNiyarUmisparaim/static/css/main.4dc47012.chunk.css",
+    "main.js": "/EveNiyarUmisparaim/static/js/main.8df5362b.chunk.js",
+    "main.js.map": "/EveNiyarUmisparaim/static/js/main.8df5362b.chunk.js.map",
+    "runtime-main.js": "/EveNiyarUmisparaim/static/js/runtime-main.abb8e781.js",
+    "runtime-main.js.map": "/EveNiyarUmisparaim/static/js/runtime-main.abb8e781.js.map",
+    "static/js/2.88ec0950.chunk.js": "/EveNiyarUmisparaim/static/js/2.88ec0950.chunk.js",
+    "static/js/2.88ec0950.chunk.js.map": "/EveNiyarUmisparaim/static/js/2.88ec0950.chunk.js.map",
+    "static/js/3.6a1da20e.chunk.js": "/EveNiyarUmisparaim/static/js/3.6a1da20e.chunk.js",
+    "static/js/3.6a1da20e.chunk.js.map": "/EveNiyarUmisparaim/static/js/3.6a1da20e.chunk.js.map",
+    "index.html": "/EveNiyarUmisparaim/index.html",
+    "static/css/main.4dc47012.chunk.css.map": "/EveNiyarUmisparaim/static/css/main.4dc47012.chunk.css.map",
+    "static/js/2.88ec0950.chunk.js.LICENSE.txt": "/EveNiyarUmisparaim/static/js/2.88ec0950.chunk.js.LICENSE.txt",
+    "static/media/even1.db68b497.png": "/EveNiyarUmisparaim/static/media/even1.db68b497.png",
+    "static/media/misparaimWin.b4df4484.png": "/EveNiyarUmisparaim/static/media/misparaimWin.b4df4484.png",
+    "static/media/niyar1.4ff05c62.png": "/EveNiyarUmisparaim/static/media/niyar1.4ff05c62.png",
+    "static/media/peperWin.fd51f921.png": "/EveNiyarUmisparaim/static/media/peperWin.fd51f921.png",
+    "static/media/rockWin.9a51c56e.png": "/EveNiyarUmisparaim/static/media/rockWin.9a51c56e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abb8e781.js",
+    "static/js/2.88ec0950.chunk.js",
+    "static/css/main.4dc47012.chunk.css",
+    "static/js/main.8df5362b.chunk.js"
+  ]
+}
